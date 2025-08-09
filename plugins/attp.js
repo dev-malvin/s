@@ -1,4 +1,4 @@
-/* 
+
 const sharp = require('sharp');
 const fs = require('fs');
 const path = require('path');
@@ -52,4 +52,4 @@ async function attpCommand(sock, chatId, message) {
 module.exports = attpCommand;
 
 
-*/
+
