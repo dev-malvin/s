@@ -1,3 +1,5 @@
+
+/*
 const sharp = require('sharp');
 const fs = require('fs');
 const fsPromises = require('fs/promises');
@@ -49,3 +51,6 @@ const convertStickerToImage = async (sock, quotedMessage, chatId) => {
 };
 
 module.exports = convertStickerToImage;
+
+
+*/
